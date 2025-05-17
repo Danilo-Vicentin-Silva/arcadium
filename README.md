@@ -1,4 +1,4 @@
-# 🎮 GameForge - E-commerce de Jogos para Desktop
+# 🎮 Arcadium - E-commerce de Jogos para Desktop
 
 🚀 **Projeto de Engenharia de Software** | 💻 **E-commerce de Games**
 
@@ -6,7 +6,7 @@
 
 ## 🧠 Sobre o Projeto
 
-**GameForge** é uma plataforma de e-commerce desenvolvida como parte do nosso curso de **Engenharia de Software**. Nosso objetivo é criar um sistema robusto, escalável e intuitivo para a **compra de jogos digitais para Desktop**, com foco em performance, usabilidade e boas práticas de desenvolvimento.
+**Arcadium** é uma plataforma de e-commerce desenvolvida como parte do nosso curso de **Engenharia de Software**. Nosso objetivo é criar um sistema robusto, escalável e intuitivo para a **compra de jogos digitais para Desktop**, com foco em performance, usabilidade e boas práticas de desenvolvimento.
 
 > 🔍 *“Jogos não são só diversão, são software em estado de arte.”*
 
@@ -38,7 +38,7 @@
 
 > 🎥 Em breve: vídeo demo da aplicação!
 
-![Preview do site](https://via.placeholder.com/900x500.png?text=Prévia+do+site+GameForge)  
+![Preview do site](https://via.placeholder.com/900x500.png?text=Prévia+do+site+Arcadium)  
 *Mockup ilustrativo — imagens reais virão em breve.*
 
 ---
@@ -47,10 +47,10 @@
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/gameforge-ecommerce.git
+git clone https://github.com/seu-usuario/arcadium-ecommerce.git
 
 # Entre na pasta do projeto
-cd gameforge-ecommerce
+cd arcadium-ecommerce
 
 # Instale as dependências
 npm install
